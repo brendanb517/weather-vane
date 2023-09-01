@@ -20,7 +20,12 @@ export default function App() {
           </div>
         </div>
         <div className='bottom'>
-          
+          <div className='feels_like'>
+            <p>96°F</p>
+          </div>
+          <div className='humidity'>
+            <p>54%</p>
+          </div>
         </div>
       </div>
     </div>
